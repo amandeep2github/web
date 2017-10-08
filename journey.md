@@ -21,3 +21,8 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 git pull
+
+2017-10-08:
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
+
+https://unsplash.com/
