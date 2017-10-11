@@ -26,3 +26,7 @@ git pull
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
 https://unsplash.com/
+
+2017-10-11:
+underscore.js
+patatap.com
