@@ -1,0 +1,45 @@
+h1 {
+	font-family: Georgia;
+	color: rgba(100, 100, 100, 1);	
+
+}
+
+ul {
+	
+	border: 2px solid blue;
+}
+
+#selectGender {
+	border: 2px dotted pink;
+
+}
+
+.copyright {
+	color: red;
+	text-transform: capitalize;
+}
+
+* {
+	margin-left: 20px;
+}
+
+input:checked {
+	margin-left: 30px;
+}
+
+h1:hover {
+	text-decoration: underline red;
+}
+
+.strikethrough {
+	text-decoration: line-through;
+}
+
+h2 {
+	font-family: Nosifer;
+}
+
+.same1{
+	background-color: blue;
+}
+

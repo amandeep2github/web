@@ -1,0 +1,28 @@
+
+
+.vertical {
+	border-left: 2px solid grey;
+	border-right: 2px solid grey;
+
+}
+
+
+.horizontal {
+	border-top: 2px solid grey;
+	border-bottom: 2px solid grey;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+table {
+	width: 50%;
+	margin: auto;
+}
