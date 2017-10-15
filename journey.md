@@ -34,3 +34,5 @@ patatap.com
 2017-10-14:
 http://youmightnotneedjquery.com/
 CDN - content delivery network
+2017-10-15:
+api.jquery.com
