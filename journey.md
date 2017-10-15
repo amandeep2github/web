@@ -30,3 +30,7 @@ https://unsplash.com/
 2017-10-11:
 underscore.js
 patatap.com
+
+2017-10-14:
+http://youmightnotneedjquery.com/
+CDN - content delivery network
