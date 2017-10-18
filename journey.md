@@ -36,3 +36,7 @@ http://youmightnotneedjquery.com/
 CDN - content delivery network
 2017-10-15:
 api.jquery.com
+
+2017-10-17:
+paper.js
+howler.js
