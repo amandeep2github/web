@@ -45,3 +45,5 @@ https://www.programmableweb.com/
 
 http://www.omdbapi.com/ us it as http://www.omdbapi.com/?apikey=thewdb&s=california
 
+i.icon { size: 2em; }
+
