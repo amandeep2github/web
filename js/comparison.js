@@ -12,3 +12,12 @@ if(typeof num === 'number'){
 	console.log('You entered number data');
 }
 
+var person = {
+	firstName: "X"
+	isPerson: function(){
+		return this === person;//return true
+	}
+}
+
+
+
